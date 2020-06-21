@@ -6,3 +6,12 @@
 ![Image of Project](https://github.com/DrOctopusCodes/Jabba/blob/master/screenshots/img1.PNG)
 
 #### https://github.com/DrOctopusCodes/Jabba
+
+
+# Weather - The Progressive Web App
+*PWA - installable, uses open climate API to find the weather.*
+*When offline, displays suitable message*
+
+![Image of Project](https://github.com/DrOctopusCodes/WeatherPWA/blob/master/screenshots/img3.PNG)
+
+#### https://github.com/DrOctopusCodes/WeatherPWA
