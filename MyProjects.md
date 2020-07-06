@@ -27,3 +27,13 @@ Check the code :
 #### https://github.com/DrOctopusCodes/ReactChatApp
 
 ![Image of Project](https://github.com/DrOctopusCodes/ReactChatApp/blob/master/screenshots/chat2.PNG)
+
+
+# React Random Advice Generator
+*React app that uses AdviceSlip Api*
+*Generates random advices on button click*
+*Deployed using netlify*
+Check the code :
+#### https://github.com/DrOctopusCodes/Advice
+
+![Image of Project](https://github.com/DrOctopusCodes/Advice/blob/master/screenshots/img2.PNG)
