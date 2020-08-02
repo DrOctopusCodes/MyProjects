@@ -33,7 +33,17 @@ Check the code :
 *React app that uses AdviceSlip Api*
 *Generates random advices on button click*
 *Deployed using netlify*
+Download the app from:
+#### https://nervous-noether-6e042f.netlify.app/
 Check the code :
 #### https://github.com/DrOctopusCodes/Advice
 
 ![Image of Project](https://github.com/DrOctopusCodes/Advice/blob/master/screenshots/img2.PNG)
+
+
+# Flexbox cheat sheet
+*Some basics of flex - css*
+Check the code :
+#### https://github.com/DrOctopusCodes/FlexBox
+
+![Image of Project](https://github.com/DrOctopusCodes/FlexBox/blob/master/screenshots/style10a.PNG)
