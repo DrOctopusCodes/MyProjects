@@ -2,9 +2,10 @@
 I am Veena.    
 
 :computer: I am a software engineer
-- My favourite IDE is Atom.
-- I love coding not only for a job but also as a hobby.
-- Connect with me on LinkedIn 
+:atom: My favourite IDE is Atom.
+:heart_eyes: I love coding not only for a job but also as a hobby.
+:earth_asia: Connect with me on LinkedIn 
+octocat: Leave a star [GitHub](https://github.com/DrOctopusCodes)
 
 Here is my skill set:
 - Python, Java, Javascript
