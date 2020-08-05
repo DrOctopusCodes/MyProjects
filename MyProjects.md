@@ -9,7 +9,7 @@ I am Veena.
 
 :earth_asia: Connect with me on LinkedIn    
 
-octocat: Leave a star [GitHub](https://github.com/DrOctopusCodes)
+:octocat: Leave a star [GitHub](https://github.com/DrOctopusCodes)
 
 Here is my skill set:
 - Python, Java, Javascript
