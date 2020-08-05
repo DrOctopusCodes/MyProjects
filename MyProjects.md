@@ -1,3 +1,20 @@
+# Hello!!   
+I am Veena.    
+
+:computer: I am a software engineer
+- My favourite IDE is Atom.
+- I love coding not only for a job but also as a hobby.
+- Connect with me on LinkedIn 
+
+Here is my skill set:
+- Python, Java, Javascript
+- HTML, CSS
+- React
+- Git, JIRA
+- Firebase
+
+Here are few projects that I have developed from online tutorials:   
+
 # Jabba - The Corona Tracker
 *Javascript web app that displays the stats of infected, recovered and dead corona patients worlwide.*
 *This makes use of materialUI for UI features and https://covid19.mathdro.id/api to get the data.*
