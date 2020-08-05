@@ -7,7 +7,7 @@ I am Veena.
 
 :heart_eyes: I love coding not only for a job but also as a hobby.   
 
-:earth_asia: Connect with me on LinkedIn    
+:earth_asia: Connect with me on [LinkedIn](https://www.linkedin.com/in/veenasirigere/)    
 
 :octocat: Leave a star [GitHub](https://github.com/DrOctopusCodes)
 
