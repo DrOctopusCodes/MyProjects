@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+
 # Hello!!   
 I am Veena.    
 
@@ -69,3 +76,7 @@ Check the code :
 #### https://github.com/DrOctopusCodes/FlexBox
 
 ![Image of Project](https://github.com/DrOctopusCodes/FlexBox/blob/master/screenshots/style10a.PNG)
+
+
+</body>
+</html>
