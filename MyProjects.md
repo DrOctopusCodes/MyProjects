@@ -18,7 +18,17 @@ Here is my skill set:
 - Git, JIRA
 - Firebase
 
-Here are few projects that I have developed from online tutorials:   
+My Projects:   
+
+# Binge
+*Online shows tracker*
+*This makes use of materialUI for UI features and https://www.episodate.com/api to get the data.*
+*You can search for the show, add it to your watchlist. It makes use of firebase to store data*
+Check the code :
+#### https://github.com/DrOctopusCodes/Binge
+
+![Image of Project](https://github.com/DrOctopusCodes/Binge/blob/master/screenshots/1.PNG)
+
 
 # Jabba - The Corona Tracker
 *Javascript web app that displays the stats of infected, recovered and dead corona patients worlwide.*
