@@ -18,7 +18,7 @@ Here is my skill set:
 - Git, JIRA
 - Firebase
 
-My Projects:   
+# My Projects:   
 
 # Binge
 *Online shows tracker*
