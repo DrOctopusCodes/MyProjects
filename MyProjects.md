@@ -86,3 +86,9 @@ Check the code :
 
 ![Image of Project](https://github.com/DrOctopusCodes/Recipes/blob/main/screenshots/img1.PNG)
 
+# Tinder clone app
+### https://github.com/DrOctopusCodes/tinder-clone
+This is MERN stack application. Frontend deployed using firebase and backend deployed using heroku.
+The front end can be found here - https://tinder-clone-veena.web.app/
+P.S It is a private repo. 
+
