@@ -19,7 +19,7 @@ Here is my skill set:
 - Firebase
 
 My articles:     
-![Survival Guide: SQL](https://indiantechiediaries.blogspot.com/2021/02/survival-guide-sql.html)
+- [Survival Guide: SQL](https://indiantechiediaries.blogspot.com/2021/02/survival-guide-sql.html)
 
 # My Projects:   
 
