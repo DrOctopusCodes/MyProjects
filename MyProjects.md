@@ -18,7 +18,7 @@ Here is my skill set:
 - Git, JIRA
 - Firebase
 
-My articles:
+My articles:     
 ![Survival Guide: SQL](https://indiantechiediaries.blogspot.com/2021/02/survival-guide-sql.html)
 
 # My Projects:   
