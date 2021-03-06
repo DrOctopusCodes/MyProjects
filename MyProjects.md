@@ -20,6 +20,7 @@ Here is my skill set:
 
 My articles:     
 - [Survival Guide: SQL](https://indiantechiediaries.blogspot.com/2021/02/survival-guide-sql.html)
+- [Survival Guide: OOP conecepts](https://indiantechiediaries.blogspot.com/2021/03/survival-guide-oop-concepts-in-java.html)
 
 # My Projects:   
 
