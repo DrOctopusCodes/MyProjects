@@ -1,9 +1,7 @@
 # Hello!!   
 I am Veena.    
 
-:computer: I am a software engineer   
-
-:atom: My favourite IDE is Atom.   
+:computer: I am a software engineer      
 
 :heart_eyes: I love coding not only for a job but also as a hobby.   
 
