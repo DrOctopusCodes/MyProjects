@@ -8,6 +8,7 @@ I am Veena.
 :earth_asia: Connect with me on [LinkedIn](https://www.linkedin.com/in/veenasirigere/)    
 
 :octocat: Leave a star [GitHub](https://github.com/DrOctopusCodes)
+:📙 My [Blog](https://indiantechiediaries.blogspot.com/)
 
 Here is my skill set:
 - Python, Java, Javascript
