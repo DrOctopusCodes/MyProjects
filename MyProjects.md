@@ -9,7 +9,7 @@ I am Veena.
 
 :octocat: Leave a star [GitHub](https://github.com/DrOctopusCodes)   
 
-📙 My [Blog](https://indiantechiediaries.blogspot.com/)
+📝 My [Blog](https://indiantechiediaries.blogspot.com/)
 
 Here is my skill set:
 - Python, Java, Javascript
