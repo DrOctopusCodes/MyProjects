@@ -9,7 +9,6 @@ I am Veena.
 
 :octocat: Leave a star [GitHub](https://github.com/DrOctopusCodes)   
 
-📝 My [Blog](https://indiantechiediaries.blogspot.com/)
 
 Here is my skill set:
 - Python, Java, Javascript
@@ -18,11 +17,6 @@ Here is my skill set:
 - Git, JIRA
 - Firebase
 
-My articles:     
-- [Survival Guide: SQL](https://indiantechiediaries.blogspot.com/2021/02/survival-guide-sql.html)
-- [Survival Guide: OOP concepts](https://indiantechiediaries.blogspot.com/2021/03/survival-guide-oop-concepts-in-java.html)
-- [Difference between let & var](https://indiantechiediaries.blogspot.com/2021/07/let-and-var.html)
-- [Q&A - Java](https://indiantechiediaries.blogspot.com/2021/07/QAJava.html)
 
 # My Projects:   
 
